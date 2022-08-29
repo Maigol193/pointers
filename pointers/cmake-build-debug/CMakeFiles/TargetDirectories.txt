@@ -1,8 +1,0 @@
-C:/Users/migue/Documents/workspace/pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/migue/Documents/workspace/pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/migue/Documents/workspace/pointers/cmake-build-debug/lib/CMakeFiles/pointers.dir
-C:/Users/migue/Documents/workspace/pointers/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
-C:/Users/migue/Documents/workspace/pointers/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
-C:/Users/migue/Documents/workspace/pointers/cmake-build-debug/app/CMakeFiles/app.dir
-C:/Users/migue/Documents/workspace/pointers/cmake-build-debug/app/CMakeFiles/edit_cache.dir
-C:/Users/migue/Documents/workspace/pointers/cmake-build-debug/app/CMakeFiles/rebuild_cache.dir
