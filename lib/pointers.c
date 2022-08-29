@@ -26,7 +26,20 @@ int bubble_sort(int *collection, int count){
     }
     return num_swap;
 }
-
+/*
+int bubble_sort(int *collection, int count){
+    int num_swap = 0;
+    for(int i = 0; i < count; i++){
+        for(int j = i; j < (count - 1); j++){
+            if (*(collection+j) > *(collection+valor_der)){
+                swap((collection+j),(collection+valor_der));
+                num_swap++;
+            }
+        }
+    }
+    return num_swap;
+}
+*/
 void insertion_sort(int *collection, int count){
     for(int i = 1; i < count; i++){
         int *mover = collection+1;
