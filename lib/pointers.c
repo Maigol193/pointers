@@ -27,10 +27,9 @@ int bubble_sort(int *collection, int count){
 
 void insertion_sort(int *collection, int count){
     for(int i = 1; i < count; i++){
-        int *mover = collection+1;
-        int j = 1;
+        int *mover = collection+i;
         while(*mover < *(mover-1) && (mover-1) >= collection){
-            swap(mover,(mover-j));
+            swap(mover,(mover-1));
             mover--;
         }
     }
